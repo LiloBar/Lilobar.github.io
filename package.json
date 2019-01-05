@@ -5,16 +5,13 @@
     "description": "My personal resume.",
     "keywords": [
         "css",
-        "sass",
         "html",
-        "responsive",
-        "theme",
-        "template"
+        "responsive"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/resume",
+    "homepage": "",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-resume/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://lilobar.github.io",
+        "email": "chrismoykweni@gmail.com"
     },
     "license": "Lilo",
     "author": "Lilo Moykweni",
